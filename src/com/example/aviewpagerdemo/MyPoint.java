@@ -22,9 +22,9 @@ public class MyPoint extends View {
 		mPaint1=new Paint();
 		mPaint2=new Paint();
 		mPaint3=new Paint();
-		mPaint1.setColor(Color.YELLOW);
-		mPaint2.setColor(Color.YELLOW);
-		mPaint3.setColor(Color.YELLOW);
+		mPaint1.setColor(Color.RED);
+		mPaint2.setColor(Color.RED);
+		mPaint3.setColor(Color.RED);
 		mPaint1.setAntiAlias(true);
 		mPaint2.setAntiAlias(true);
 		mPaint3.setAntiAlias(true);
